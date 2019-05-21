@@ -1,0 +1,7 @@
+Permutation, Example
+Replace "o" with "0", "good"->"g00d"
+Replace "e" with "3", "hello"->"h3llo"
+Prepend the string with "my", "password"->"mypassword"
+Append "123" to the end of string, "password"->"password123"
+Append "1990" to the end of string, "password"->"password1990"
+Capitalize every other letter, "password"->"PaSsWoRd"
